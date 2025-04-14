@@ -1,5 +1,5 @@
 #ifndef __MEXPR_ENUMS__
-#define __DBL_MAX_EXP__
+#define __MEXPR_ENUMS__
 
 typedef enum {
     MATH_CPP_INT, //11
